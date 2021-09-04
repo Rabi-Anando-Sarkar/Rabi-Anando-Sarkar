@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rabi-Anando-Sarkar
 - 👀 I’m interested in Web devolopment 
-- 🌱 I’m currently learning jajascript
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
